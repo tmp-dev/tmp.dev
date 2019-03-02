@@ -9,3 +9,7 @@ We are a group of driven people, who all want to create something we can enjoy o
 ## Projects and idea's
 
 We have many idea's to what to develop next! But most of us have day time jobs. So most work is done during the evenings or weekends.
+
+## Links 
+
+Check out our [Github group](https://tmp.dev/) to see what public projects we are working on at the moment! 
