@@ -12,4 +12,4 @@ We have many idea's to what to develop next! But most of us have day time jobs. 
 
 ## Links 
 
-Check out our [Github group](https://tmp.dev/) to see what public projects we are working on at the moment! 
+Check out our [Github group](https://github.com/tmp-dev) to see what public projects we are working on at the moment! 
